@@ -12,3 +12,7 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -149.5607933 -17.5232384 
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -149.5575893 -17.5230763 3.43 143.93
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -149.553539 -17.5204364 -0.09 208.61
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -149.525371 -17.5190995 -0.08 11.75
+OBJECT_SHARED Models/Aircraft/dhc6_lowpoly.ac -149.6141736 -17.5566139 2.21 268
+OBJECT_SHARED Models/Aircraft/dhc6_lowpoly.ac -149.6133819 -17.55609 2.4 36
+OBJECT_SHARED Models/Aircraft/dhc6_blue_lowpoly.ac -149.6143347 -17.5563767 2 264
+OBJECT_SHARED Models/Aircraft/cessna_caravan_gag_float_lowpoly.ac -149.6152763 -17.5564422 0 264
