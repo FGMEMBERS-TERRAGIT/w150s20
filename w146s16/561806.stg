@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -145.13 -15.845 -1.91 22.03
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -145.12564 -15.78091 0.00 267
+# END dsf2stg
